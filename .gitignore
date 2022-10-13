@@ -1,0 +1,12 @@
+# misc
+.ipynb_checkpoints/
+
+# glove network
+glove.6B.100d.txt
+processed_glove.b
+
+# network
+grader/
+
+# training data
+data/
