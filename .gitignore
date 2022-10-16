@@ -3,11 +3,16 @@
 .vscode/
 
 # glove network
-glove.6B.100d.txt
+glove.6B.50d.txt
 processed_glove.b
 
 # network
 grader/
+grader.tflite
 
 # training data
 data/
+modified_*
+
+# logs
+logs/
